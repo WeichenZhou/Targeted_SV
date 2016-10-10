@@ -1,0 +1,10 @@
+# Targeted_SV
+
+1. Overall track: 
+
+The central and thick bar is the region of original events; the flanking thin bars are the extension regions targeted (here is ±1500bp extension). The ‘item’ name has the breakpoint information, e.g. chr1:1153023:1153219:1153519.
+There are 9 calls separated by two parts because of their long internal regions. They are showing like these: chr17:4654846:4655187:31949661:1 and chr17:4654846:4655187:31949661:2
+
+2. Six variant tracks:
+
+They have the top frequency in the overall call. There are six types of variants, with reference allele ab/ab and different alternative alleles (a/ab, aab/ab, ab/aba, ab/abab, ab/abb and ab/b). The central and thick bar is the region of original events (copy number changed); the missing gaps are no copy number changed regions; the flanking thin bars are the extension regions targeted (here is ±1500bp extension). The blue bars represent duplication, and the red bars represent deletion. The ‘item’ name has the breakpoint and sample information, e.g. chr1:1153023:1153219:1153519@HG02922.
